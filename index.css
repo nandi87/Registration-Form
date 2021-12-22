@@ -143,7 +143,20 @@ form .button input:hover{
     .form-details::-webkit-scrollbar{
         width: 0;
     }
+    form .button{
+        display: flex;
+        height: 45px;
+    }
+    form .button input{
+        font-size: 18px;
+        font-weight: 500;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: blueviolet;
+        border-radius: 10px;
+    }
 }
+
 
 
 
